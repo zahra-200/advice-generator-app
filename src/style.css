@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 /* - Mobile: 375px
 - Desktop: 1440px */
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 :root{
     /* Primary */
     --Light-Cyan : hsl(193, 38%, 86%);
