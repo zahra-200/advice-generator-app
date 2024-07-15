@@ -18,5 +18,5 @@ body{
     font-weight: 500;
     font-style: normal;
 }
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution { font-size: 11px; text-align: center; color: var(--Grayish-Blue);}
+.attribution a { color:var(--Light-Cyan) ; }
